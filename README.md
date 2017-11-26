@@ -1,4 +1,4 @@
-# JAlgoArena Judge Agent [![Build Status](https://travis-ci.org/spolnik/JAlgoArena-Judge.svg?branch=master)](https://travis-ci.org/spolnik/JAlgoArena-Judge) [![codecov](https://codecov.io/gh/spolnik/JAlgoArena-Judge/branch/master/graph/badge.svg)](https://codecov.io/gh/spolnik/JAlgoArena-Judge) [![GitHub release](https://img.shields.io/github/release/spolnik/jalgoarena-judge.svg)]()
+# JAlgoArena Judge Agent [![Build Status](https://travis-ci.org/klaudia-janiec/JAlgoArena-Judge.svg?branch=master)](https://travis-ci.org/klaudia-janiec/JAlgoArena-Judge)
 
 JAlgoArena Judge Agent is heart of JAlgoArena platform. It is responsible for generation of skeleton code as well as judging submissions based on requirements specified in problem definition.
 
@@ -32,12 +32,12 @@ Demo: https://jalgoarena-ui.herokuapp.com/
 
 ## Components
 
-- [JAlgoArena](https://github.com/spolnik/JAlgoArena)
-- [JAlgoArena UI](https://github.com/spolnik/JAlgoArena-UI)
-- [JAlgoArena Judge](https://github.com/spolnik/JAlgoArena-Judge)
-- [JAlgoArena Problems](https://github.com/spolnik/JAlgoArena-Problems)
-- [JAlgoArena Eureka Server](https://github.com/spolnik/JAlgoArena-Eureka)
-- [JAlgoArena API Gateway](https://github.com/spolnik/JAlgoArena-API)
+- [JAlgoArena](https://github.com/klaudia-janiec/JAlgoArena)
+- [JAlgoArena UI](https://github.com/klaudia-janiec/JAlgoArena-UI)
+- [JAlgoArena Judge](https://github.com/klaudia-janiec/JAlgoArena-Judge)
+- [JAlgoArena Problems](https://github.com/klaudia-janiec/JAlgoArena-Problems)
+- [JAlgoArena Eureka Server](https://github.com/klaudia-janiec/JAlgoArena-Eureka)
+- [JAlgoArena API Gateway](https://github.com/klaudia-janiec/JAlgoArena-API)
 
 ## Continuous Delivery
 
@@ -70,6 +70,6 @@ There are two ways to run it - from sources or from binaries.
 - there is second way to run app with gradle. Instead of running above, you can just run `./gradlew clean bootRun`
 
 ## Notes
-- [Travis Builds](https://travis-ci.org/spolnik)
+- [Travis Builds](https://travis-ci.org/klaudia-janiec)
 
 ![Component Diagram](https://github.com/spolnik/JAlgoArena/raw/master/design/JAlgoArena_Logo.png)
